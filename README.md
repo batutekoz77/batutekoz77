@@ -10,7 +10,6 @@
 ![ENet](https://img.shields.io/badge/ENet-Networking-blue?style=for-the-badge)
 ![Raylib](https://img.shields.io/badge/Raylib-Game%20Engine-orange?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -30,5 +29,5 @@
 ---
 
 ## 📫 Contact
-- [Email](batutekoz@gmail.com)
-- [Whatsapp](+31622266035)
+- [Email](#batutekoz@gmail.com)
+- [Whatsapp](#+31622266035)
