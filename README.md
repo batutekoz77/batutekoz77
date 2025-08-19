@@ -1,37 +1,34 @@
-# 👋 Hi, I'm Batu Teköz  
+# 👋 Hi, I'm Batuhan
 
-🎯 **C++ Backend Developer** | Multiplayer Game Dev Enthusiast  
-
-🚀 I love building **high-performance systems** and **real-time multiplayer games**.  
-Currently developing **SuperClash Online** – a 2D fast-paced battle game in C++ using **ENet** and **Raylib**.  
+💻 **C++ Backend Developer**  
+⚡ Building high-performance multiplayer systems & game servers  
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: C++, C  
-- **Networking**: ENet (UDP-based), socket programming  
-- **Game Development**: Raylib, custom engine-free design  
-- **Tools**: Git, Visual Studio, Vcpkg  
+## 🔧 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ENet](https://img.shields.io/badge/ENet-Networking-blue?style=for-the-badge)
+![Raylib](https://img.shields.io/badge/Raylib-Game%20Engine-orange?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📌 Featured Project
-### [SuperClash Online](https://github.com/batutekoz77/Power-Arena-2D)
-⚡ A multiplayer 2D battle arena game written in C++  
-- Engine-free, lightweight design using **Raylib**  
-- Real-time networking with **ENet**  
-- Players start as **Ghosts**, then choose one of 4 unique powers:  
-  - 🌀 Extra Speed → Move faster  
-  - 🔫 Extra Ammo → Bigger magazines  
-  - ⏳ Time Developer → Shorter cooldowns  
-  - ❄️ Freezer → Freeze all players for 1.5s  
+## 🚀 Featured Projects
+- 🎮 [SuperClash Online](https://github.com/batutekoz77/Power-Arena-2D)  
+  *Fast-paced multiplayer 2D battle game built with C++, ENet & Raylib.*
+
+- 🔗 [Other Repo](#)  
+  *Backend systems, networking experiments, or game prototypes.*
 
 ---
 
-## 📫 Connect
-- GitHub: [@batutekoz77](https://github.com/batutekoz77)  
-- Email: *(batutekoz@gmail.com)*  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batutekoz77&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batutekoz77&layout=compact&theme=radical)
 
 ---
 
-⭐ Always open to collaboration and new opportunities in **C++ backend development** and **multiplayer systems**.
+## 📫 Contact
+- [Email](batutekoz@gmail.com)
+- [Whatsapp](+31622266035)
