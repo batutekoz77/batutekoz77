@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Batu Teköz  
 
-<!--
-**batutekoz77/batutekoz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **C++ Backend Developer** | Multiplayer Game Dev Enthusiast  
 
-Here are some ideas to get you started:
+🚀 I love building **high-performance systems** and **real-time multiplayer games**.  
+Currently developing **SuperClash Online** – a 2D fast-paced battle game in C++ using **ENet** and **Raylib**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Languages**: C++, C  
+- **Networking**: ENet (UDP-based), socket programming  
+- **Game Development**: Raylib, custom engine-free design  
+- **Tools**: Git, Visual Studio, Vcpkg  
+
+---
+
+## 📌 Featured Project
+### [SuperClash Online](https://github.com/batutekoz77/Power-Arena-2D)
+⚡ A multiplayer 2D battle arena game written in C++  
+- Engine-free, lightweight design using **Raylib**  
+- Real-time networking with **ENet**  
+- Players start as **Ghosts**, then choose one of 4 unique powers:  
+  - 🌀 Extra Speed → Move faster  
+  - 🔫 Extra Ammo → Bigger magazines  
+  - ⏳ Time Developer → Shorter cooldowns  
+  - ❄️ Freezer → Freeze all players for 1.5s  
+
+---
+
+## 📫 Connect
+- GitHub: [@batutekoz77](https://github.com/batutekoz77)  
+- Email: *(batutekoz@gmail.com)*  
+
+---
+
+⭐ Always open to collaboration and new opportunities in **C++ backend development** and **multiplayer systems**.
