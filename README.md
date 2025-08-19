@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Batuhan
+# 👋 Hi, I'm Batu Teköz
 
 💻 **C++ Backend Developer**  
 ⚡ Building high-performance multiplayer systems & game servers  
