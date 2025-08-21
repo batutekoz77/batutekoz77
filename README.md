@@ -14,11 +14,11 @@
 ---
 
 ## 🚀 Featured Projects
-- 🎮 [SuperClash Online](https://github.com/batutekoz77/Power-Arena-2D)  
+- 🎮 [Power Arena 2D](https://github.com/batutekoz77/Power-Arena-2D)  
   *Fast-paced multiplayer 2D battle game built with C++, ENet & Raylib.*
 
-- 🔗 [Other Repo](#)  
-  *Backend systems, networking experiments, or game prototypes.*
+- 🔗 [Real World SQL Web](https://github.com/batutekoz77/Real-World-SQL-Web)  
+  *An enterprise-oriented web application built with the Crow C++ framework and SQLite, featuring announcements, task management, and employee database operations in one solution.*
 
 ---
 
