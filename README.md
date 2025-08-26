@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Batu Teköz
 
 💻 **C++ Backend Developer**  
-⚡ Building high-performance multiplayer systems & game servers  
+⚡ Building high-performance real world projects, game servers and security solutions
 
 ---
 
