@@ -20,6 +20,9 @@
 - 🔗 [Real World SQL Web](https://github.com/batutekoz77/Real-World-SQL-Web)  
   *An enterprise-oriented web application built with the Crow C++ framework and SQLite, featuring announcements, task management, and employee database operations in one solution.*
 
+- 🔗 [Crypto Analyzer Web](https://github.com/batutekoz77/Crypto-Analyzer-Web)  
+  *A web-based crypto dashboard built with HTML, CSS, and JavaScript, featuring real-time market updates, coin-specific news, Google login integration, and subscription management.*
+
 ---
 
 ## 📊 GitHub Stats
