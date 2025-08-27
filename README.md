@@ -26,7 +26,7 @@
 ---
 
 ## 🏆 Certificate
-[![Certificate](certificate.jpg)](certificate.jpg)
+[![Certificate](sertificate.jpg)](sertificate.jpg)
 
 ---
 
