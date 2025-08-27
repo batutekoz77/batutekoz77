@@ -25,6 +25,11 @@
 
 ---
 
+## 🏆 Certificate
+[![Certificate](certificate.jpg)](certificate.jpg)
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batutekoz77&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batutekoz77&layout=compact&theme=radical)
