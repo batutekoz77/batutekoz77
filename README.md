@@ -23,6 +23,9 @@
 - 💵 [Crypto Analyzer Web](https://github.com/batutekoz77/Crypto-Analyzer-Web)  
   *A web-based crypto dashboard built with HTML, CSS, and JavaScript, featuring real-time market updates, coin-specific news, Google login integration, and subscription management.*
 
+- 🕵️ [Website Stealer](https://github.com/batutekoz77/Website-Stealer)  
+  *A C++ tool that downloads webpages and all assets (CSS, images, icons) for offline viewing, resolving links, rewriting HTML to local paths, and configurable via a simple config.json file.*
+  
 ---
 
 ## 🏆 Certificate
