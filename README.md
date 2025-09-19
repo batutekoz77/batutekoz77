@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🌱 [Seedtopia](https://github.com/batutekoz77/SeedTopia)  
+- 🌱 [SeedTopia](https://github.com/batutekoz77/SeedTopia)  
   *2D Sandbox game from scratch using latest c++ and c languages. Networking by ENET, Database by SQLite Modern C++ and User Interface by SFML library. The aim of the project is recoding Growtopia game (Server + Client Sides) using reverse engineering and my own abilities!*
   
 - 🔗 [Real World SQL Web](https://github.com/batutekoz77/Real-World-SQL-Web)  
