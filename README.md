@@ -17,18 +17,12 @@
 - 🌱 [Seed Topia](https://github.com/batutekoz77/SeedTopia)  
   *2D Sandbox game from scratch using latest c++ and c languages. Networking by ENET, Database by SQLite Modern C++ and User Interface by SFML library. The aim of the project is recoding Growtopia game (Server + Client Sides) using reverse engineering and my own abilities!*
   
-- 🎮 [Power Arena 2D](https://github.com/batutekoz77/Power-Arena-2D)  
-  *Fast-paced multiplayer 2D battle game built with C++, ENet & Raylib.*
-
 - 🔗 [Real World SQL Web](https://github.com/batutekoz77/Real-World-SQL-Web)  
   *An enterprise-oriented web application built with the Crow C++ framework and SQLite, featuring announcements, task management, and employee database operations in one solution.*
 
 - 💵 [Crypto Analyzer Web](https://github.com/batutekoz77/Crypto-Analyzer-Web)  
   *A web-based crypto dashboard built with HTML, CSS, and JavaScript, featuring real-time market updates, coin-specific news, Google login integration, and subscription management.*
 
-- 🕵️ [Website Stealer](https://github.com/batutekoz77/Website-Stealer)  
-  *A C++ tool that downloads webpages and all assets (CSS, images, icons) for offline viewing, resolving links, rewriting HTML to local paths, and configurable via a simple config.json file.*
-  
 ---
 
 ## 🏆 Certificate
