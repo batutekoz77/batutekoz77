@@ -19,13 +19,19 @@
   *Taskflow is a Modern and Intuitive Task Assignment and Management Application in **modern C++23**.  
 Easily distribute tasks among team members, track progress in real-time, and boost productivity.*
 
+
 - 🌱 [SeedTopia](https://github.com/batutekoz77/SeedTopia)  
+
   *2D Sandbox game from scratch using latest c++ and c languages. Networking by ENET, Database by SQLite Modern C++ and User Interface by SFML library. The aim of the project is recoding Growtopia game (Server + Client Sides) using reverse engineering and my own abilities!*
+
   
 - 🔗 [Real World SQL Web](https://github.com/batutekoz77/Real-World-SQL-Web)  
+
   *An enterprise-oriented web application built with the Crow C++ framework and SQLite, featuring announcements, task management, and employee database operations in one solution.*
 
+
 - 💵 [Crypto Analyzer Web](https://github.com/batutekoz77/Crypto-Analyzer-Web)  
+
   *A web-based crypto dashboard built with HTML, CSS, and JavaScript, featuring real-time market updates, coin-specific news, Google login integration, and subscription management.*
 
 ---
