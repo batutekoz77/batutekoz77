@@ -14,6 +14,10 @@
 ---
 
 ## 🚀 Featured Projects
+- 📋 [TaskFlow]([github](https://github.com/batutekoz77/TaskFlow)
+  *Taskflow is a Modern and Intuitive Task Assignment and Management Application in **modern C++23**.  
+Easily distribute tasks among team members, track progress in real-time, and boost productivity.*
+
 - 🌱 [SeedTopia](https://github.com/batutekoz77/SeedTopia)  
   *2D Sandbox game from scratch using latest c++ and c languages. Networking by ENET, Database by SQLite Modern C++ and User Interface by SFML library. The aim of the project is recoding Growtopia game (Server + Client Sides) using reverse engineering and my own abilities!*
   
