@@ -20,9 +20,9 @@
 Easily distribute tasks among team members, track progress in real-time, and boost productivity.*
 
 
-- 🌱 [SeedTopia](https://github.com/batutekoz77/SeedTopia)  
+- 🌱 [Enet Proxy](https://github.com/batutekoz77/Enet-Proxy-Growtopia)  
 
-  *2D Sandbox game from scratch using latest c++ and c languages. Networking by ENET, Database by SQLite Modern C++ and User Interface by SFML library. The aim of the project is recoding Growtopia game (Server + Client Sides) using reverse engineering and my own abilities!*
+  *Growtopia Proxy is a free and open-source proxy for Growtopia, which enables the user to debug incoming and outgoing packets and even modify them. It is a useful tool for developers who want to analyze the game's network traffic and develop custom features and send custom enet packets to the game server!*
 
   
 - 🔗 [Real World SQL Web](https://github.com/batutekoz77/Real-World-SQL-Web)  
