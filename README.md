@@ -14,15 +14,15 @@
 ---
 
 ## 🚀 Featured Projects
+- 🌱 [GrowtopiaProxy](https://github.com/batutekoz77/GrowtopiaProxy)  
+
+  *Growtopia Bridge Proxy is a powerful tool that sits between the Growtopia client and server, allowing full control over network traffic. With this proxy, you can monitor, modify, and inject packets to customize your gameplay experience.*
+
+  
 - 📋 [TaskFlow](https://github.com/batutekoz77/TaskFlow)
 
   *Taskflow is a Modern and Intuitive Task Assignment and Management Application in **modern C++23**.  
 Easily distribute tasks among team members, track progress in real-time, and boost productivity.*
-
-
-- 🌱 [Enet Proxy](https://github.com/batutekoz77/Enet-Proxy-Growtopia)  
-
-  *Growtopia Proxy is a free and open-source proxy for Growtopia, which enables the user to debug incoming and outgoing packets and even modify them. It is a useful tool for developers who want to analyze the game's network traffic and develop custom features and send custom enet packets to the game server!*
 
   
 - 🔗 [Real World SQL Web](https://github.com/batutekoz77/Real-World-SQL-Web)  
