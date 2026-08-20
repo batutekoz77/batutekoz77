@@ -27,6 +27,16 @@ I enjoy working close to the metal — optimizing performance, designing scalabl
 
 ---
 
+## 🧠 Focus Areas
+
+- High-performance C++ systems
+- Multiplayer networking architecture
+- Backend & server development
+- Low-level performance optimization
+- Secure and scalable system design
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔥 XoidPeer (Flagship Project)
@@ -89,16 +99,6 @@ Modern task management system built in **C++23**.
 - Real-time tracking
 - Clean modular architecture
 - Productivity-focused design
-
----
-
-## 🧠 Focus Areas
-
-- High-performance C++ systems
-- Multiplayer networking architecture
-- Backend & server development
-- Low-level performance optimization
-- Secure and scalable system design
 
 ---
 
