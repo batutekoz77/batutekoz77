@@ -37,6 +37,18 @@ I enjoy working close to the metal — optimizing performance, designing scalabl
 
 ---
 
+### 🌐 GrowtopiaProxy
+👉 https://github.com/batutekoz77/GrowtopiaProxy
+
+A low-level ENet proxy system for **real-time packet inspection and modification**.
+
+- Packet interception & forwarding
+- Live network traffic analysis
+- Hook-based architecture
+- Protocol-level debugging tools
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔥 XoidPeer (Flagship Project)
@@ -49,18 +61,6 @@ A modern **C++20 networking library built on top of ENet**, designed for product
 - Thread-safe architecture
 - High-performance server/client model
 - Built for scalable multiplayer systems
-
----
-
-### 🌐 GrowtopiaProxy
-👉 https://github.com/batutekoz77/GrowtopiaProxy
-
-A low-level ENet proxy system for **real-time packet inspection and modification**.
-
-- Packet interception & forwarding
-- Live network traffic analysis
-- Hook-based architecture
-- Protocol-level debugging tools
 
 ---
 
