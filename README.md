@@ -66,6 +66,20 @@ Enterprise-style backend web application built with **C++ (Crow framework) + SQL
 
 ---
 
+### ⛏️ XoidCraft
+👉 https://github.com/batutekoz77/XoidCraft
+
+A custom **C++ Minecraft server project** focused on low-level networking, protocol implementation, and server-side systems.
+
+- Minecraft 1.8.9 protocol implementation
+- Custom TCP networking layer
+- Packet handling & protocol state management
+- Custom world loading & saving system
+- Player connection and session management
+- Designed for performance and scalability
+
+---
+
 ### 📋 TaskFlow
 👉 https://github.com/batutekoz77/TaskFlow
 
