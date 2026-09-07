@@ -36,6 +36,22 @@ I enjoy working close to the metal — optimizing performance, designing scalabl
 - Secure and scalable system design
 
 ---
+
+## 🚀 Featured Projects
+
+### 🔥 XoidPeer (Flagship Project)
+👉 https://github.com/batutekoz77/XoidPeer
+
+A modern **C++20 networking library built on top of ENet**, designed for production-grade multiplayer systems.
+
+- Clean, zero-dependency public API
+- Packet validation & rate limiting
+- Thread-safe architecture
+- High-performance server/client model
+- Built for scalable multiplayer systems
+
+---
+
 ### 🏦 XoidBank
 👉 https://github.com/batutekoz77/XoidBank
 
@@ -57,21 +73,6 @@ A low-level ENet proxy system for **real-time packet inspection and modification
 - Live network traffic analysis
 - Hook-based architecture
 - Protocol-level debugging tools
-
----
-
-## 🚀 Featured Projects
-
-### 🔥 XoidPeer (Flagship Project)
-👉 https://github.com/batutekoz77/XoidPeer
-
-A modern **C++20 networking library built on top of ENet**, designed for production-grade multiplayer systems.
-
-- Clean, zero-dependency public API
-- Packet validation & rate limiting
-- Thread-safe architecture
-- High-performance server/client model
-- Built for scalable multiplayer systems
 
 ---
 
