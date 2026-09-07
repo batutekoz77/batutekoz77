@@ -36,6 +36,17 @@ I enjoy working close to the metal — optimizing performance, designing scalabl
 - Secure and scalable system design
 
 ---
+### 🏦 XoidBank
+👉 https://github.com/batutekoz77/XoidBank
+
+A **secure banking web app** built in C++ with mandatory 2FA, session management, and Dutch BSN compliance.
+
+- Mandatory two-factor authentication (email-delivered codes, cannot be bypassed even with "remember me")
+- Tiered session architecture (pending session → full session → remember token)
+- Dutch BSN validation with the real 11-proef checksum algorithm
+- Rate limiting & global flood protection on every sensitive endpoint
+  
+---
 
 ### 🌐 GrowtopiaProxy
 👉 https://github.com/batutekoz77/GrowtopiaProxy
