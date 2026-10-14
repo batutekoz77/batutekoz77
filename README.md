@@ -24,6 +24,8 @@ I enjoy working close to the metal — optimizing performance, designing scalabl
 ![ENet](https://img.shields.io/badge/ENet-Networking-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-TCP%2FUDP-orange?style=for-the-badge)
+![Direct3D 11](https://img.shields.io/badge/Direct3D_11-Graphics-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![SDL3](https://img.shields.io/badge/SDL3-Input_%26_Window-1E3A5F?style=for-the-badge)
 
 ---
 
@@ -37,9 +39,22 @@ I enjoy working close to the metal — optimizing performance, designing scalabl
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
 
-### 🔥 XoidPeer (Flagship Project)
+### 🏎️ XoidDrift (Flagship Project)
+👉 https://github.com/batutekoz77/XoidDrift
+
+An **online drift game for Windows**, built from scratch in C++ and Direct3D 11 to run smoothly on weak PCs.
+
+- 240 Hz car physics: four-tire model, clutch kick, handbrake drifting, steering wheel with force feedback
+- Online rooms of 1–8 players on a dedicated ENet server, 30 Hz car sync with smooth interpolation
+- Secure accounts: Argon2id hashing, e-mail 2FA, end-to-end encrypted traffic, cheat-checked car states
+- Own UI library (single draw call), asset packer that simplifies and encrypts all cars and maps
+- My first vibe-coded project, built with Claude Code
+
+---
+
+### 🔥 XoidPeer
 👉 https://github.com/batutekoz77/XoidPeer
 
 A modern **C++20 networking library built on top of ENet**, designed for production-grade multiplayer systems.
