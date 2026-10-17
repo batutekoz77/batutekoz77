@@ -139,8 +139,8 @@ Modern task management system built in **C++23**.
 
 ## 📫 Contact
 
-- 📧 Email: batutekoz@gmail.com  
-- 💬 WhatsApp: +31 6 22266035  
+- 📧 Email: contact@batutekoz.nl 
+- 💬 WhatsApp: +31622266035  
 
 ---
 
