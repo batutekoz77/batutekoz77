@@ -117,18 +117,6 @@ A custom **C++ Minecraft server project** focused on low-level networking, proto
 
 ---
 
-### 📋 TaskFlow
-👉 https://github.com/batutekoz77/TaskFlow
-
-Modern task management system built in **C++23**.
-
-- Task assignment system
-- Real-time tracking
-- Clean modular architecture
-- Productivity-focused design
-
----
-
 ## 🏆 Certificate
 
 <p align="center">
