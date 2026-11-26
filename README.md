@@ -67,7 +67,7 @@ An **online drift game for Windows**, built from scratch in C++ and Direct3D 11 
 </td>
 <td width="50%" valign="top">
 
-#### 🛞 [Xoid Content Manager](https://github.com/batutekoz77/XoidContentManager) · *New*
+#### 🛞 [Xoid Content Manager](https://github.com/batutekoz77/XoidContentManager)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri_2-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 A **lightweight Assetto Corsa launcher and content manager**, focused on drifting and maximum in-game FPS.
